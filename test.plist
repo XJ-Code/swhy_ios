@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://180.168.116.152:30584/yusp-crm-web/FoxShell.ipa</string>
+                    <string>https://github.com/XJ-Code/swhy_ios/blob/master/FoxShell.ipa?raw=true</string>
                 </dict>
                 <dict>
                     <key>kind</key>
